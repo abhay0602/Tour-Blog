@@ -211,7 +211,9 @@ footer ul a{color: #fff; font-size: 1.5rem; }
     .wrap-4 .col-6{ margin: 10px 0px;}
 
     .wrap-5 .row{height: 100vh;}
-    .wrap-5 .row .col-10{margin-bottom: 50px; flex-basis: 100%; max-width: 100%;}
+    .wrap-5 .row .col-10{margin-bottom: 50px; flex-basis: 100%; max-width: 100%; }
+    .wrap-5 .row .col-10 h2{font-size: 1.5rem;}
+    .wrap-5 .row .col-10 p{font-size: 1.2rem;}
 
     .wrap-6{height: auto;}
     .wrap-6 .row .col-6{flex-basis: 100%; max-width: 100%; margin-top: 0px;}
@@ -219,9 +221,11 @@ footer ul a{color: #fff; font-size: 1.5rem; }
     .wrap-7{padding: 20px 0px;}
     .wrap-7 .col-4{flex-basis: 100%; max-width: 100%; margin: 10px 0px;}
     .wrap-7 .col-8{flex-basis: 100%; max-width: 100%; margin: 10px 0px;}
-
+    
     .wrap-8{padding: 20px 0px;}
     .wrap-8 .col-8{flex-basis: 100%; max-width: 100%; margin: 10px 0px;}
+    .wrap-8 .row .col-8 form input{width: 100%; border-radius: 50px;}
+    .wrap-8 .row .col-8 form button{width: 100%; border-radius: 50px; margin: 10px 0px;}
 
     footer .row .col-6{ margin: 10px 0px;}
     footer {padding: 10px 0px;}
